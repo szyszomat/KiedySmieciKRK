@@ -1,0 +1,5 @@
+requests>=2.31.0
+easyocr>=1.7.2
+Pillow>=11.3.0
+python-dateutil>=2.8.2
+numpy>=1.24.0  # Added numpy which is a dependency of easyocr

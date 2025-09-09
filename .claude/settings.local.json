@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(copy simple_web_scraper_fixed.py simple_web_scraper.py)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
